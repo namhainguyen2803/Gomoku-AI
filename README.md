@@ -1,5 +1,5 @@
 # Gomoku-NegaScout-AI
-An AI playing Gomoku 15x15 using Negamax algorithm, NegaScout algorithm, Zobrist Hashing, Null Window written in C++
+An AI playing Gomoku 15x15 using Negamax algorithm and NegaScout algorithm with time limitation and with depth limitation; Iterative Deepening; Zobrist Hashing; Null Window written in C++
 
 In order to play, you have to do the following steps:
   - First, download the zip file and unzip it.
